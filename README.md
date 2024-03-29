@@ -9,6 +9,7 @@ Altere entre modo Claro e Escuro:
 Meu interesse pela área da programação começou há cerca de 2 anos e meio. A minha trajetória de estudos começou com cursos livres na internet, onde realmente despertou o meu entusiamo pela área. Atualmente, estou finalizando meu **técnico em Desenvolvimento de Sistemas** (3 / 4). Além disso, estou cursando **Ciência da Computação** (1 / 8).
 No curso de nível técnico, desde o início, fomos colocados em grupos de 4 integrantes, seguindo a metodologia ágil _Scrum_. Essa dinâmica ofereceu experiências de trabalho de desenvolvimento de sistemas em times diversificados e com diferentes habilidades em diferentes áreas. 
 >Essa vivência fortaleceus habilidades como **Trabalho em Equipe**, **Liderança**, **Gestão de Tempo**, **Organização**, **Distribuição de Tarefas**, **Comunicação**, entre outras.
+
 ## Competências 
 ### Desenvolvimento de Sistemas - **SENAI**
 #### Fundamentos de Programação Orientada a Objeto

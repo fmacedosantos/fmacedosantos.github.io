@@ -1,6 +1,7 @@
 # Felipe Macedo dos Santos
-Altere para o modo <div id="dark-mode-toggle">
-  <button onclick="toggleDarkMode()">Dark</button>
+Altere entre modo Claro e Escuro: 
+<div id="dark-mode-toggle">
+  <button onclick="toggleDarkMode()">Claro / Escuro</button>
 </div>
 >_Conheça a minha história e o meu portfólio._
 

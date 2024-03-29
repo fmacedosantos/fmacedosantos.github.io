@@ -107,9 +107,13 @@ window.onbeforeunload = saveModeState;
 </script>
 
 <style>
-/* Estilos para os modos claro e escuro */
+/* estilos para os modos claro e escuro */
 body {
     transition: background-color 0.4s ease;
+}
+
+div {
+  margin-bottom: 5px;
 }
 
 .light-mode {

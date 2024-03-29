@@ -1,5 +1,7 @@
 # Felipe Macedo dos Santos
-
+Altere para o modo <div id="dark-mode-toggle">
+  <button onclick="toggleDarkMode()">Dark</button>
+</div>
 >_Conheça a minha história e o meu portfólio._
 
 ## Sobre mim
@@ -71,3 +73,51 @@ No curso de nível técnico, desde o início, fomos colocados em grupos de 4 int
 * Publicação de web sites
 * Publicação do aplicativo
 * Controle de versões.
+
+<script>
+function toggleDarkMode() {
+    var body = document.body;
+    body.classList.toggle("dark-mode");
+}
+
+// cria uma função para salvar o estado do modo no localStorage
+function saveModeState() {
+    var body = document.body;
+    if (body.classList.contains("dark-mode")) {
+        localStorage.setItem("darkMode", "enabled");
+    } else {
+        localStorage.setItem("darkMode", "disabled");
+    }
+}
+
+// carrega o estado do modo salvo no localStorage ao carregar a página
+window.onload = function() {
+    var darkModeState = localStorage.getItem("darkMode");
+    var body = document.body;
+    if (darkModeState === "enabled") {
+        body.classList.add("dark-mode");
+    } else {
+        body.classList.remove("dark-mode");
+    }
+};
+
+// adiciona um evento para salvar o estado do modo ao fechar a página
+window.onbeforeunload = saveModeState;
+</script>
+
+<style>
+/* Estilos para os modos claro e escuro */
+body {
+    transition: background-color 0.4s ease;
+}
+
+.light-mode {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+.dark-mode {
+    background-color: #333333;
+    color: #ffffff;
+}
+</style>

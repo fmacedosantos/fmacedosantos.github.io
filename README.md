@@ -12,72 +12,111 @@ No curso de nível técnico, desde o início, fomos colocados em grupos de 4 int
 
 ## Competências 
 <details>
-  <summary>### Desenvolvimento de Sistemas - **SENAI**</summary>
+  <summary><h3>Desenvolvimento de Sistemas - <strong>SENAI</strong></h3></summary>
   
-#### Fundamentos de Programação Orientada a Objeto
-* Linguagem de programação **Java**
-* Lógica de programação orientada a objeto
-* Programação orientada a objetos
-#### Sistemas Operacionais
-* Arquitetura dos sistemas operacionais
-* Sistema operacional código fechado
-* Sistemas operacional código aberto
-* Editor de texto
-* Manipulação de arquivos
-* Planilha eletrônica.
-#### Hardware e Redes de Computadores
-* Fundamentos de Hardware
-* Fundamentos de Redes de Computadores
-#### Linguagens de Marcação e Estilização
-* HTML 5
-* CSS 3
-* Materialize
-* Acessibilidade
-* Design responsivo
-* User experience (UX) design
-#### Programação Web Front-end
-* Javascript
-* React
-* Web apps
-#### Banco de Dados
-* Sistema Gerenciador de Banco de Dados (SGBD)
-* Modelo relacional (MySQL)
-* Modelo não-relacional (Firebase)
-#### Programação Web Back-end
-* Linguagem de programação **C#**
-* Padrão de desenvolvimento MVC
-* .NET
-* Persistência de dados
-* Web Services
-#### Interfaces para Dispositivos Móveis
-* Criação de Interfaces
-* Recursos de Hardware
-#### Programação Para Dispositivos 
-* APIs
-* Persistência de dados em dispositivos móveis
-* Consumo de RESTfull web servisse
-#### Projetos
-* Qualidade de software
-* Metodologias de desenvolvimento
-* Metodologia de gerenciamento de projeto
-* Apresentação do projeto
-#### Requisitos e Modelagem de Software
-* Requisitos
-* Levantamento de Requisitos
-* Gerenciamento de Requisitos
-* UML (Unified Modeling Language)
-* Documentação de Requisitos
-#### Testes de Software
-* Testes
-* Planejamento de testes
-* Execução de testes
-##### Outros
-* Ambiente de desenvolvimento desktop
-* Ambiente de desenvolvimento web
-* Publicação de web sites
-* Publicação do aplicativo
-* Controle de versões.
+  <h4>Fundamentos de Programação Orientada a Objeto</h4>
+  <ul>
+    <li>Linguagem de programação <strong>Java</strong></li>
+    <li>Lógica de programação orientada a objeto</li>
+    <li>Programação orientada a objetos</li>
+  </ul>
+
+  <h4>Sistemas Operacionais</h4>
+  <ul>
+    <li>Arquitetura dos sistemas operacionais</li>
+    <li>Sistema operacional código fechado</li>
+    <li>Sistemas operacional código aberto</li>
+    <li>Editor de texto</li>
+    <li>Manipulação de arquivos</li>
+    <li>Planilha eletrônica</li>
+  </ul>
+
+  <h4>Hardware e Redes de Computadores</h4>
+  <ul>
+    <li>Fundamentos de Hardware</li>
+    <li>Fundamentos de Redes de Computadores</li>
+  </ul>
+
+  <h4>Linguagens de Marcação e Estilização</h4>
+  <ul>
+    <li>HTML 5</li>
+    <li>CSS 3</li>
+    <li>Materialize</li>
+    <li>Acessibilidade</li>
+    <li>Design responsivo</li>
+    <li>User experience (UX) design</li>
+  </ul>
+
+  <h4>Programação Web Front-end</h4>
+  <ul>
+    <li>Javascript</li>
+    <li>React</li>
+    <li>Web apps</li>
+  </ul>
+
+  <h4>Banco de Dados</h4>
+  <ul>
+    <li>Sistema Gerenciador de Banco de Dados (SGBD)</li>
+    <li>Modelo relacional (MySQL)</li>
+    <li>Modelo não-relacional (Firebase)</li>
+  </ul>
+
+  <h4>Programação Web Back-end</h4>
+  <ul>
+    <li>Linguagem de programação <strong>C#</strong></li>
+    <li>Padrão de desenvolvimento MVC</li>
+    <li>.NET</li>
+    <li>Persistência de dados</li>
+    <li>Web Services</li>
+  </ul>
+
+  <h4>Interfaces para Dispositivos Móveis</h4>
+  <ul>
+    <li>Criação de Interfaces</li>
+    <li>Recursos de Hardware</li>
+  </ul>
+
+  <h4>Programação Para Dispositivos</h4>
+  <ul>
+    <li>APIs</li>
+    <li>Persistência de dados em dispositivos móveis</li>
+    <li>Consumo de RESTful web services</li>
+  </ul>
+
+  <h4>Projetos</h4>
+  <ul>
+    <li>Qualidade de software</li>
+    <li>Metodologias de desenvolvimento</li>
+    <li>Metodologia de gerenciamento de projeto</li>
+    <li>Apresentação do projeto</li>
+  </ul>
+
+  <h4>Requisitos e Modelagem de Software</h4>
+  <ul>
+    <li>Requisitos</li>
+    <li>Levantamento de Requisitos</li>
+    <li>Gerenciamento de Requisitos</li>
+    <li>UML (Unified Modeling Language)</li>
+    <li>Documentação de Requisitos</li>
+  </ul>
+
+  <h4>Testes de Software</h4>
+  <ul>
+    <li>Testes</li>
+    <li>Planejamento de testes</li>
+    <li>Execução de testes</li>
+  </ul>
+
+  <h5>Outros</h5>
+  <ul>
+    <li>Ambiente de desenvolvimento desktop</li>
+    <li>Ambiente de desenvolvimento web</li>
+    <li>Publicação de web sites</li>
+    <li>Publicação do aplicativo</li>
+    <li>Controle de versões</li>
+  </ul>
 </details>
+
 
 
 

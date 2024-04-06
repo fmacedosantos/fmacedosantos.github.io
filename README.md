@@ -12,7 +12,7 @@ No curso de nível técnico, desde o início, fomos colocados em grupos de 4 int
 
 ## Competências 
 <details>
-  <summary><h3>Desenvolvimento de Sistemas - <strong>SENAI</strong></h3></summary>
+  <summary><Desenvolvimento de Sistemas - <strong>SENAI</strong></summary>
   
   <h4>Fundamentos de Programação Orientada a Objeto</h4>
   <ul>

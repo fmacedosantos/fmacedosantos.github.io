@@ -11,7 +11,9 @@ No curso de nível técnico, desde o início, fomos colocados em grupos de 4 int
 >Essa vivência fortaleceus habilidades como **Trabalho em Equipe**, **Liderança**, **Gestão de Tempo**, **Organização**, **Distribuição de Tarefas**, **Comunicação**, entre outras.
 
 ## Competências 
-### Desenvolvimento de Sistemas - **SENAI**
+<details>
+  <summary>### Desenvolvimento de Sistemas - **SENAI**</summary>
+  
 #### Fundamentos de Programação Orientada a Objeto
 * Linguagem de programação **Java**
 * Lógica de programação orientada a objeto
@@ -75,6 +77,9 @@ No curso de nível técnico, desde o início, fomos colocados em grupos de 4 int
 * Publicação de web sites
 * Publicação do aplicativo
 * Controle de versões.
+</details>
+
+
 
 <script>
 function toggleDarkMode() {

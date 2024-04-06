@@ -1,3 +1,4 @@
+
 # Felipe Macedo dos Santos
 Altere entre modo Claro e Escuro: 
 <div id="dark-mode-toggle">
@@ -12,7 +13,7 @@ No curso de nível técnico, desde o início, fomos colocados em grupos de 4 int
 
 ## Competências 
 <details>
-  <summary><Desenvolvimento de Sistemas - <strong>SENAI</strong></summary>
+  <summary><strong>Desenvolvimento de Sistemas</strong> - SENAI</summary>
   
   <h4>Fundamentos de Programação Orientada a Objeto</h4>
   <ul>
@@ -113,10 +114,27 @@ No curso de nível técnico, desde o início, fomos colocados em grupos de 4 int
     <li>Ambiente de desenvolvimento web</li>
     <li>Publicação de web sites</li>
     <li>Publicação do aplicativo</li>
-    <li>Controle de versões</li>
+    <li>Controle de versão</li>
   </ul>
 </details>
 
+## Portfólio 
+<details>
+    <summary><strong>Projetos</strong></summary>
+    <h4>Java - <strong>Desktop</strong></h4>
+    <ul>
+        <li><a href="https://github.com/fmacedosantos/AdvocateLinkDesktop">AdvocateLink</a></li>
+        <li><a href="https://github.com/fmacedosantos/AquaZen">AquaZen</a></li>
+    </ul>
+    <h4>HTML, CSS & JS - <strong>Web</strong></h4>
+    <ul>
+        <li><a href="https://github.com/fmacedosantos/alura_space">Alura Space</a></li>
+    </ul>
+    <h4>React Native - <strong>Mobile</strong></h4>
+    <ul>
+        <li><a href="https://github.com/fmacedosantos/mobile-orgs-cesta">Cesta Virtual</a></li>
+    </ul>
+</details>
 
 
 

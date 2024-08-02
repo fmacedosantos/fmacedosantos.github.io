@@ -13,7 +13,7 @@
   <button onclick="toggleDarkMode()">Alternar</button>
 </div>
 
->_Conheça a minha história._
+>**Conheça a minha história:**
 
 ## Sobre mim
 Minha jornada na programação começou em 2020, com cursos online em plataformas como **[Curso em vídeo](https://www.cursoemvideo.com/)** e **[Alura](https://www.alura.com.br/)**. Em seguida, busquei uma experiência mais prática e me matriculei no curso técnico em Desenvolvimento de Sistemas no **[SENAI](https://sp.senai.br/unidade/campinaszerbini/)**.
@@ -64,8 +64,18 @@ Atualmente, estou no último semestre do técnico e cursando Ciência da Computa
 
 <script>
 function toggleDarkMode() {
-    var body = document.body;
-    body.classList.toggle("dark-mode");
+  var body = document.body;
+  var button = document.querySelector("#dark-mode-toggle button");
+
+  body.classList.toggle("dark-mode");
+
+  if (body.classList.contains("dark-mode")) {
+    button.textContent = "Claro";
+  } else {
+    button.textContent = "Escuro";
+  }
+
+  saveModeState();
 }
 
 // cria uma função para salvar o estado do modo no localStorage

@@ -1,6 +1,14 @@
 
 # Felipe Macedo dos Santos
 
+### Minhas redes
+<a href="https://www.linkedin.com/in/felipe-macedo-dos-santos-37264a1b5/">
+  <img src="https://img.freepik.com/vetores-premium/logotipo-linkedin_578229-227.jpg" alt="Perfil do LinkedIn de Felipe Macedo" width="30" height="30">
+</a>
+<a href="https://github.com/fmacedosantos/">
+  <img src="https://i.pinimg.com/736x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg" alt="Perfil do GitHub de Felipe Macedo" width="30" height="30">
+</a>
+
 <div id="dark-mode-toggle">
   <button onclick="toggleDarkMode()">Alternar</button>
 </div>

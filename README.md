@@ -6,7 +6,7 @@
   <img src="https://img.freepik.com/vetores-premium/logotipo-linkedin_578229-227.jpg" alt="Perfil do LinkedIn de Felipe Macedo" width="30" height="30">
 </a>
 <a href="https://github.com/fmacedosantos/">
-  <img src="https://i.pinimg.com/736x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg" alt="Perfil do GitHub de Felipe Macedo" width="30" height="30">
+  <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw" alt="Perfil do GitHub de Felipe Macedo" width="30" height="30">
 </a>
 
 <div id="dark-mode-toggle">
@@ -26,38 +26,42 @@ Durante o curso técnico, tive a oportunidade de:
 Atualmente, estou no último semestre do técnico e cursando Ciência da Computação na **[Wyden](https://www.wyden.com.br/)**. Essa combinação me permite aprofundar meus conhecimentos em engenharia de software e as minhas soft skills.
 
 ## Formação Acadêmica
-* SENAI: Técnico em Desenvolvimento de Sistemas (4/4)
-* Wyden: Ciência da Computação (2/8)
+* SENAI: **Técnico em Desenvolvimento de Sistemas** (4/4)
+* Wyden: **Ciência da Computação** (2/8)
 
 ## Portfólio 
+
 <details>
-    <summary><strong>Projetos</strong></summary>
+<summary><strong>Mobile</strong></summary>
+  <ul>
+      <li><a href="https://github.com/fmacedosantos/tickUpMobile">TickUp (Android Studio)</a></li>
+      <li><a href="https://github.com/fmacedosantos/mobile-orgs-cesta">Cesta Virtual (React Native)</a></li>
+  </ul>
+</details>
 
-    <h4><strong>Mobile</strong></h4>
-    <ul>
-        <li><a href="https://github.com/fmacedosantos/tickUpMobile">TickUp (Android Studio)</a></li>
-        <li><a href="https://github.com/fmacedosantos/mobile-orgs-cesta">Cesta Virtual (React Native)</a></li>
-    </ul>
+<details>
+<summary><strong>Back-end</strong></summary>
+  <ul>
+    <li><a href="https://github.com/fmacedosantos/tickUpAPI">TickUp: API (ASP.NET)</a></li>
+  </ul>
+</details>
 
-    <h4><strong>Back-end</strong></h4>
-    <ul>
-      <li><a href="https://github.com/fmacedosantos/tickUpAPI">TickUp: API (ASP.NET)</a></li>
-    </ul>
+<details>
+<summary><strong>Front-end</strong></summary>
+  <ul>
+      <li><a href="https://github.com/GustavoGuimaraes01/TickUp">TickUp</a></li>
+      <li><a href="https://github.com/fmacedosantos/alura_space">Alura Space</a></li>
+  </ul>
+</details>
 
-    <h4><strong>Fron-end</strong></h4>
-    <ul>
-        <li><a href="https://github.com/GustavoGuimaraes01/TickUp">TickUp</a></li>
-        <li><a href="https://github.com/fmacedosantos/alura_space">Alura Space</a></li>
-    </ul>
-    
-    <h4><strong>Desktop</strong></h4>
-    <ul>
-        <li><a href="https://github.com/fmacedosantos/AdvocateLinkDesktop">AdvocateLink (Java)</a></li>
-        <li><a href="https://github.com/fmacedosantos/AquaZen">AquaZen (Java)</a></li>
-        <li><a href="https://github.com/fmacedosantos/sistema_bancario">Sistema bancário (Python)</a></li>
-        <li><a href="https://github.com/fmacedosantos/vetorAleatorioC">Vetor aleatório (C)</a></li>
-    </ul>
-    
+<details>
+<summary><strong>Desktop</strong></summary>
+  <ul>
+      <li><a href="https://github.com/fmacedosantos/AdvocateLinkDesktop">AdvocateLink (Java)</a></li>
+      <li><a href="https://github.com/fmacedosantos/AquaZen">AquaZen (Java)</a></li>
+      <li><a href="https://github.com/fmacedosantos/sistema_bancario">Sistema bancário (Python)</a></li>
+      <li><a href="https://github.com/fmacedosantos/vetorAleatorioC">Vetor aleatório (C)</a></li>
+  </ul>
 </details>
 
 

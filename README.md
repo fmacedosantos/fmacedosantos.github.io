@@ -1,15 +1,25 @@
 
 # Felipe Macedo dos Santos
-Altere entre modo Claro e Escuro: 
+
 <div id="dark-mode-toggle">
-  <button onclick="toggleDarkMode()">Claro / Escuro</button>
+  <button onclick="toggleDarkMode()">Alternar</button>
 </div>
->_Conheça a minha história e o meu portfólio._
+
+>_Conheça a minha história._
 
 ## Sobre mim
-Meu interesse pela área da programação começou há cerca de 2 anos e meio. A minha trajetória de estudos começou com cursos livres na internet, onde realmente despertou o meu entusiamo pela área. Atualmente, estou finalizando meu **técnico em Desenvolvimento de Sistemas** (3 / 4). Além disso, estou cursando **Ciência da Computação** (1 / 8).
-No curso de nível técnico, desde o início, fomos colocados em grupos de 4 integrantes, seguindo a metodologia ágil _Scrum_. Essa dinâmica ofereceu experiências de trabalho de desenvolvimento de sistemas em times diversificados e com diferentes habilidades em diferentes áreas. 
->Essa vivência fortaleceus habilidades como **Trabalho em Equipe**, **Liderança**, **Gestão de Tempo**, **Organização**, **Distribuição de Tarefas**, **Comunicação**, entre outras.
+Minha jornada na programação começou em 2020, com cursos online em plataformas como **[Curso em vídeo](https://www.cursoemvideo.com/)** e **[Alura](https://www.alura.com.br/)**. Em seguida, busquei uma experiência mais prática e me matriculei no curso técnico em Desenvolvimento de Sistemas no **[SENAI](https://sp.senai.br/unidade/campinaszerbini/)**.
+
+Durante o curso técnico, tive a oportunidade de:
+* Trabalhar em equipe em diversos projetos, utilizando a metodologia ágil _Scrum_.
+* Desenvolver habilidades como **Liderança**, **Trabalho em Equipe**, **Gestão de Tempo** e **Comunicação**.
+* Gerenciar times de desenvolvimento.
+
+Atualmente, estou no último semestre do técnico e cursando Ciência da Computação na **[Wyden](https://www.wyden.com.br/)**. Essa combinação me permite aprofundar meus conhecimentos em engenharia de software e as minhas soft skills.
+
+## Formação Acadêmica
+* SENAI: Técnico em Desenvolvimento de Sistemas (4/4)
+* Wyden: Ciência da Computação (2/8)
 
 ## Portfólio 
 <details>

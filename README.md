@@ -1,7 +1,7 @@
 
 # Felipe Macedo dos Santos
 
-### Minhas redes
+#### Minhas redes
 <a href="https://www.linkedin.com/in/felipe-macedo-dos-santos-37264a1b5/">
   <img src="https://img.freepik.com/vetores-premium/logotipo-linkedin_578229-227.jpg" alt="Perfil do LinkedIn de Felipe Macedo" width="30" height="30">
 </a>
@@ -11,7 +11,10 @@
 
 <div id="dark-mode-toggle">
   <button onclick="toggleDarkMode()">Modo Escuro</button>
+  <button onclick="changeLanguage()">Pt-br</button>
 </div>
+
+
 
 >**Conheça a minha história:**
 
@@ -74,6 +77,10 @@ function toggleDarkMode() {
   saveModeState();
 }
 
+function changeLanguage() {
+  
+}
+  
 // cria uma função para salvar o estado do modo no localStorage
 function saveModeState() {
     var body = document.body;

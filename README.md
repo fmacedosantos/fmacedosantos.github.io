@@ -31,38 +31,30 @@ Atualmente, estou no último semestre do técnico e cursando Ciência da Computa
 
 ## Portfólio 
 
-<details>
-<summary><strong>Mobile</strong></summary>
-  <ul>
-      <li><a href="https://github.com/fmacedosantos/tickUpMobile">TickUp (Android Studio)</a></li>
-      <li><a href="https://github.com/fmacedosantos/mobile-orgs-cesta">Cesta Virtual (React Native)</a></li>
-  </ul>
-</details>
+#### **Mobile**
+<ul>
+    <li><a href="https://github.com/fmacedosantos/tickUpMobile">TickUp (Android Studio)</a></li>
+    <li><a href="https://github.com/fmacedosantos/mobile-orgs-cesta">Cesta Virtual (React Native)</a></li>
+</ul>
 
-<details>
-<summary><strong>Back-end</strong></summary>
-  <ul>
-    <li><a href="https://github.com/fmacedosantos/tickUpAPI">TickUp: API (ASP.NET)</a></li>
-  </ul>
-</details>
+#### **Front-end**
+<ul>
+    <li><a href="https://github.com/GustavoGuimaraes01/TickUp">TickUp</a></li>
+    <li><a href="https://github.com/fmacedosantos/alura_space">Alura Space</a></li>
+</ul>
 
-<details>
-<summary><strong>Front-end</strong></summary>
-  <ul>
-      <li><a href="https://github.com/GustavoGuimaraes01/TickUp">TickUp</a></li>
-      <li><a href="https://github.com/fmacedosantos/alura_space">Alura Space</a></li>
-  </ul>
-</details>
+#### **Back-end**
+<ul>
+  <li><a href="https://github.com/fmacedosantos/tickUpAPI">TickUp: API (ASP.NET)</a></li>
+</ul>
 
-<details>
-<summary><strong>Desktop</strong></summary>
-  <ul>
-      <li><a href="https://github.com/fmacedosantos/AdvocateLinkDesktop">AdvocateLink (Java)</a></li>
-      <li><a href="https://github.com/fmacedosantos/AquaZen">AquaZen (Java)</a></li>
-      <li><a href="https://github.com/fmacedosantos/sistema_bancario">Sistema bancário (Python)</a></li>
-      <li><a href="https://github.com/fmacedosantos/vetorAleatorioC">Vetor aleatório (C)</a></li>
-  </ul>
-</details>
+#### **Desktop**
+<ul>
+    <li><a href="https://github.com/fmacedosantos/AdvocateLinkDesktop">AdvocateLink (Java)</a></li>
+    <li><a href="https://github.com/fmacedosantos/AquaZen">AquaZen (Java)</a></li>
+    <li><a href="https://github.com/fmacedosantos/sistema_bancario">Sistema bancário (Python)</a></li>
+    <li><a href="https://github.com/fmacedosantos/vetorAleatorioC">Vetor aleatório (C)</a></li>
+</ul>
 
 
 

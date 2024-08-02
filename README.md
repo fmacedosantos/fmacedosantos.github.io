@@ -11,129 +11,35 @@ Meu interesse pela área da programação começou há cerca de 2 anos e meio. A
 No curso de nível técnico, desde o início, fomos colocados em grupos de 4 integrantes, seguindo a metodologia ágil _Scrum_. Essa dinâmica ofereceu experiências de trabalho de desenvolvimento de sistemas em times diversificados e com diferentes habilidades em diferentes áreas. 
 >Essa vivência fortaleceus habilidades como **Trabalho em Equipe**, **Liderança**, **Gestão de Tempo**, **Organização**, **Distribuição de Tarefas**, **Comunicação**, entre outras.
 
-## Competências 
-<details>
-  <summary><strong>Desenvolvimento de Sistemas</strong> - SENAI</summary>
-  
-  <h4>Fundamentos de Programação Orientada a Objeto</h4>
-  <ul>
-    <li>Linguagem de programação <strong>Java</strong></li>
-    <li>Lógica de programação orientada a objeto</li>
-    <li>Programação orientada a objetos</li>
-  </ul>
-
-  <h4>Sistemas Operacionais</h4>
-  <ul>
-    <li>Arquitetura dos sistemas operacionais</li>
-    <li>Sistema operacional código fechado</li>
-    <li>Sistemas operacional código aberto</li>
-    <li>Editor de texto</li>
-    <li>Manipulação de arquivos</li>
-    <li>Planilha eletrônica</li>
-  </ul>
-
-  <h4>Hardware e Redes de Computadores</h4>
-  <ul>
-    <li>Fundamentos de Hardware</li>
-    <li>Fundamentos de Redes de Computadores</li>
-  </ul>
-
-  <h4>Linguagens de Marcação e Estilização</h4>
-  <ul>
-    <li>HTML 5</li>
-    <li>CSS 3</li>
-    <li>Materialize</li>
-    <li>Acessibilidade</li>
-    <li>Design responsivo</li>
-    <li>User experience (UX) design</li>
-  </ul>
-
-  <h4>Programação Web Front-end</h4>
-  <ul>
-    <li>Javascript</li>
-    <li>React</li>
-    <li>Web apps</li>
-  </ul>
-
-  <h4>Banco de Dados</h4>
-  <ul>
-    <li>Sistema Gerenciador de Banco de Dados (SGBD)</li>
-    <li>Modelo relacional (MySQL)</li>
-    <li>Modelo não-relacional (Firebase)</li>
-  </ul>
-
-  <h4>Programação Web Back-end</h4>
-  <ul>
-    <li>Linguagem de programação <strong>C#</strong></li>
-    <li>Padrão de desenvolvimento MVC</li>
-    <li>.NET</li>
-    <li>Persistência de dados</li>
-    <li>Web Services</li>
-  </ul>
-
-  <h4>Interfaces para Dispositivos Móveis</h4>
-  <ul>
-    <li>Criação de Interfaces</li>
-    <li>Recursos de Hardware</li>
-  </ul>
-
-  <h4>Programação Para Dispositivos</h4>
-  <ul>
-    <li>APIs</li>
-    <li>Persistência de dados em dispositivos móveis</li>
-    <li>Consumo de RESTful web services</li>
-  </ul>
-
-  <h4>Projetos</h4>
-  <ul>
-    <li>Qualidade de software</li>
-    <li>Metodologias de desenvolvimento</li>
-    <li>Metodologia de gerenciamento de projeto</li>
-    <li>Apresentação do projeto</li>
-  </ul>
-
-  <h4>Requisitos e Modelagem de Software</h4>
-  <ul>
-    <li>Requisitos</li>
-    <li>Levantamento de Requisitos</li>
-    <li>Gerenciamento de Requisitos</li>
-    <li>UML (Unified Modeling Language)</li>
-    <li>Documentação de Requisitos</li>
-  </ul>
-
-  <h4>Testes de Software</h4>
-  <ul>
-    <li>Testes</li>
-    <li>Planejamento de testes</li>
-    <li>Execução de testes</li>
-  </ul>
-
-  <h5>Outros</h5>
-  <ul>
-    <li>Ambiente de desenvolvimento desktop</li>
-    <li>Ambiente de desenvolvimento web</li>
-    <li>Publicação de web sites</li>
-    <li>Publicação do aplicativo</li>
-    <li>Controle de versão</li>
-  </ul>
-</details>
-
 ## Portfólio 
 <details>
     <summary><strong>Projetos</strong></summary>
-    <h4>Java - <strong>Desktop</strong></h4>
+
+    <h4><strong>Mobile</strong></h4>
     <ul>
-        <li><a href="https://github.com/fmacedosantos/AdvocateLinkDesktop">AdvocateLink</a></li>
-        <li><a href="https://github.com/fmacedosantos/AquaZen">AquaZen</a></li>
+        <li><a href="https://github.com/fmacedosantos/tickUpMobile">TickUp (Android Studio)</a></li>
+        <li><a href="https://github.com/fmacedosantos/mobile-orgs-cesta">Cesta Virtual (React Native)</a></li>
     </ul>
-    <h4>HTML, CSS & JS - <strong>Web</strong></h4>
+
+    <h4><strong>Back-end</strong></h4>
     <ul>
+      <li><a href="https://github.com/fmacedosantos/tickUpAPI">TickUp: API (ASP.NET)</a></li>
+    </ul>
+
+    <h4><strong>Fron-end</strong></h4>
+    <ul>
+        <li><a href="https://github.com/GustavoGuimaraes01/TickUp">TickUp</a></li>
         <li><a href="https://github.com/fmacedosantos/alura_space">Alura Space</a></li>
     </ul>
-    <h4>React Native - <strong>Mobile</strong></h4>
+    
+    <h4><strong>Desktop</strong></h4>
     <ul>
-        <li><a href="https://github.com/fmacedosantos/mobile-orgs-cesta">Cesta Virtual</a></li>
+        <li><a href="https://github.com/fmacedosantos/AdvocateLinkDesktop">AdvocateLink (Java)</a></li>
+        <li><a href="https://github.com/fmacedosantos/AquaZen">AquaZen (Java)</a></li>
+        <li><a href="https://github.com/fmacedosantos/sistema_bancario">Sistema bancário (Python)</a></li>
+        <li><a href="https://github.com/fmacedosantos/vetorAleatorioC">Vetor aleatório (C)</a></li>
     </ul>
+    
 </details>
 
 

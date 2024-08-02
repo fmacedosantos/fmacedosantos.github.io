@@ -10,7 +10,7 @@
 </a>
 
 <div id="dark-mode-toggle">
-  <button onclick="toggleDarkMode()">Alternar</button>
+  <button onclick="toggleDarkMode()">Modo Escuro</button>
 </div>
 
 >**Conheça a minha história:**
@@ -70,9 +70,9 @@ function toggleDarkMode() {
   body.classList.toggle("dark-mode");
 
   if (body.classList.contains("dark-mode")) {
-    button.textContent = "Claro";
+    button.textContent = "Modo Claro";
   } else {
-    button.textContent = "Escuro";
+    button.textContent = "Modo Escuro";
   }
 
   saveModeState();

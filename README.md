@@ -110,7 +110,7 @@ body {
 }
 
 div {
-  margin-bottom: 70px;
+  margin-bottom: 30px;
 }
 
 .light-mode {

@@ -110,7 +110,7 @@ body {
 }
 
 div {
-  margin-bottom: 5px;
+  margin-bottom: 500px;
 }
 
 .light-mode {
@@ -121,5 +121,9 @@ div {
 .dark-mode {
     background-color: #333333;
     color: #ffffff;
+}
+
+  .dark-mode a {
+  color: #f0a500; 
 }
 </style>

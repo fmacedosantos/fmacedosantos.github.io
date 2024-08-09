@@ -34,6 +34,7 @@ Atualmente, estou no último semestre do técnico e cursando Ciência da Computa
 #### **Mobile**
 <ul>
     <li><a href="https://github.com/fmacedosantos/tickUpMobile">TickUp (Android Studio)</a></li>
+    <li><a href="https://github.com/fmacedosantos/bat-pass-app.git">Gerador de Senhas Temático (React Native - TS)</a></li>
     <li><a href="https://github.com/fmacedosantos/mobile-orgs-cesta">Cesta Virtual (React Native)</a></li>
     <li><a href="https://github.com/fmacedosantos/green-lantern">Lanterna Verde (React Native - TS)</a></li>
 </ul>

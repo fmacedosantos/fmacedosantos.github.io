@@ -34,8 +34,11 @@ Atualmente, estou no último semestre do técnico e cursando Ciência da Computa
 #### **Mobile**
 <ul>
     <li><a href="https://github.com/fmacedosantos/tickUpMobile">TickUp (Java)</a></li>
+    <li><a href="https://github.com/fmacedosantos/yourself.git">Yourself (React Native - TS)</a></li>
     <li><a href="https://github.com/fmacedosantos/bat-pass-app.git">Gerador de Senhas Temático (React Native - TS)</a></li>
-  <li><a href="https://github.com/fmacedosantos/to-do-list">To Do List (React Native - TS)</a></li>
+    <li><a href="https://github.com/fmacedosantos/lamborghini-garage">Garagem: Lamborghini (React Native - TS)</a></li>
+    <li><a href="https://github.com/fmacedosantos/link-tree">Link Tree (React Native - TS)</a></li>
+    <li><a href="https://github.com/fmacedosantos/to-do-list">To Do List (React Native - TS)</a></li>
     <li><a href="https://github.com/fmacedosantos/mobile-orgs-cesta">Cesta Virtual (React Native)</a></li>
 </ul>
 
